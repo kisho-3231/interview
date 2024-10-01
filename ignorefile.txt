@@ -5,3 +5,4 @@ file1.class
 file2.class
 file1.jpg
 file2.jpg
+fil10.class
